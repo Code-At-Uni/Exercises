@@ -9,9 +9,9 @@ Create a HTML page about you two with a title, a heading, some text about yourse
 
 #### Extension exercise
 
->! * Can you make the image a link? 
->! * Can you add different heading styles?
->! * What's the difference between head and body?
+* Can you make the image a link? 
+* Can you add different heading styles? 
+* What's the difference between head and body?
 
 ### Exercise Two
 * Create a bullet point list of countries you've visited and an ordered (numbered) list of your favourite movies (agreed upon!). Be sure to give each list a heading. 
