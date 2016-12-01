@@ -69,8 +69,8 @@ Exercises to be used in the Code at Uni course.
 
 ### Big HTML/CSS Exercise
 
-* Draw a basic layout of a website (e.g. Twitter) as a class. Replicate the basic layout. 
+* As a group, draw the basic layout of Twitter and then try to replicate it using your knowledge of HTML and CSS.
 
 ### Extension Exercise
 
-* Make the website look even more like the real website. 
+* Continue to make the website look exactly like Twitter.
