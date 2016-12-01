@@ -36,7 +36,7 @@ Exercises to be used in the Code at Uni course.
 * What else can you embed? 
 * Spotify/Google Maps?
 
-## CSS
+## CSS (in pairs!)
 
 ### Exercise Five
 * Create a new HTML file and a new CSS file. In the HTML file copy paste a paragraph of text from a news story.
