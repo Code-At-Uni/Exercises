@@ -1,9 +1,14 @@
 # Exercises
 Exercises to be used in the Code at Uni course.
 
-## HTML (in pairs!!)
+Use pair programming to solve them quicker and in a more creative way!
+
+## HTML
 
 ### Exercise One
+
+![exercise1](https://github.com/Code-At-Uni/exercises/raw/master/img/ex1.png "Exercise 1")
+
 * Create a HTML page about you two with a title, a heading, some text about yourself, and an image and a link to your favourite websites. 
 
 
