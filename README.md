@@ -52,13 +52,16 @@ Feel free to rely on the example above as a guide.
 
 # CSS
 
-## Exercise Five
-* Create a new HTML file and a new CSS file. In the HTML file copy paste a paragraph of text from a news story.
-* Create your first CSS file (adding the link in the head of your HTML) and then change the color of different parts of your text.
+## Exercise Five 
+1. Create a new HTML file and a new CSS file. (adding the link to the CSS in the head of your HTML) 
+1. In the HTML file:
+  1. Add a heading from a news story
+  1. copy paste a paragraph of text from a news story
+1. In your CSS file change the color of text, headings and background.
 
 #### Extension Exercise
 
-* Add some custom colors using http://paletton.com/
+* Add some custom colors using https://flatuicolors.com/
 * Change color of your links http://www.w3schools.com/css/css_link.asp
 
 ## Exercise Six
