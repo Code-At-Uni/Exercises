@@ -9,8 +9,13 @@ Use pair programming to solve them quicker and in a more creative way!
 
 ![exercise1](https://github.com/Code-At-Uni/exercises/raw/master/img/ex1.png "Exercise 1")
 
-* Create a HTML page about you two with a title, a heading, some text about yourself, and an image and a link to your favourite websites. 
+Feel free to rely on the example above as a guide.
 
+1. Create a HTML page about you two with a title
+1. Create a few headings heading
+1. Add some paragraphs about yourself or a topic you would like
+1. Add at least one image, having them either in the img folder or from the internet
+1. Include a link to your favourite websites. 
 
 #### Extension Exercise
 
