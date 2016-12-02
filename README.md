@@ -3,9 +3,9 @@ Exercises to be used in the Code at Uni course.
 
 Use pair programming to solve them quicker and in a more creative way!
 
-## HTML
+# HTML
 
-### Exercise One
+## Exercise One
 
 ![exercise1](https://github.com/Code-At-Uni/exercises/raw/master/img/ex1.png "Exercise 1")
 
@@ -23,22 +23,26 @@ Feel free to rely on the example above as a guide.
 * Can you add different heading styles? 
 * What's the difference between head and body?
 
-### Exercise Two
-* Create a bullet point list of countries you've visited and an ordered (numbered) list of your favourite movies (agreed upon!). Be sure to give each list a heading. 
+## Exercise Two
+![exercise2](https://github.com/Code-At-Uni/exercises/raw/master/img/ex2.png "Exercise 2")
+
+1. Add a heading of size 2 for movies that you like and countries you have visited or want to visit.
+1. Create an ordered (numbered) list of your favourite movies.
+1. Create a bullet point list of countries you've visited
 
 #### Extension Exercise
 
 * What other types of lists can you create? 
-* A list of links? A list of images? A list within a list?
+* What happens if you do a list within a list?
 
-### Exercise Three
+## Exercise Three
 * Create a questionnaire asking visitors to your website about themselves and their coding skills. This will involve using different types of form elements. 
 
 #### Extension Exercise
 
 * Use as many types of questions as possible and add images to make it look more interesting.
 
-### Exercise Four
+## Exercise Four
 * Embed a YouTube video and add a heading and description below it. 
 
 #### Extension Exercise
@@ -46,9 +50,9 @@ Feel free to rely on the example above as a guide.
 * What else can you embed? 
 * Spotify/Google Maps?
 
-## CSS (in pairs!)
+# CSS
 
-### Exercise Five
+## Exercise Five
 * Create a new HTML file and a new CSS file. In the HTML file copy paste a paragraph of text from a news story.
 * Create your first CSS file (adding the link in the head of your HTML) and then change the color of different parts of your text.
 
@@ -57,7 +61,7 @@ Feel free to rely on the example above as a guide.
 * Add some custom colors using http://paletton.com/
 * Change color of your links http://www.w3schools.com/css/css_link.asp
 
-### Exercise Six
+## Exercise Six
 
 * Change the size of an image
 * Using CSS make the paragraph narrower and use CSS to move it to the centre of the page.
@@ -65,7 +69,7 @@ Feel free to rely on the example above as a guide.
 #### Extension Exercise
 * Make the title tidier and move the image to the centre of the page below the paragraph. 
 
-### Exercise Seven
+## Exercise Seven
 
 * Create a new image and a new paragrah using HTML.
 * Add a custom class to the new image and the new paragraph. 
