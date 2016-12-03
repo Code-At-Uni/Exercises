@@ -80,10 +80,11 @@ Feel free to rely on the example above as a guide.
 
 ## Exercise Seven
 
-* Create a new image and a new paragrah using HTML.
-* Add a custom class to the new image and the new paragraph. 
-* Change the size of the image so it is bigger than the existing image.
-* Change the color of the paragraph so that it is different to the other paragraph. 
+1. Create a new image and add two paragrahs in HTML.
+1. Add a custom class to the new image and different classes to paragraphs. 
+1. Change the size of the image with CSS.
+1. Change the color of the paragraphs so they are different.
+1. Position one paragraph next to each other, to have a two-column effect.
 
 #### Extension Exercise
 * Add new custom classes and practice customising them specifically. 
@@ -92,7 +93,7 @@ Feel free to rely on the example above as a guide.
 
 ### Big HTML/CSS Exercise
 
-* As a group, draw the basic layout of Twitter and then try to replicate it using your knowledge of HTML and CSS.
+* As a group, draw the basic layout of a portfolio Website and then try to replicate it using your knowledge of HTML and CSS.
 
 ### Extension Exercise
 
