@@ -36,11 +36,17 @@ Feel free to rely on the example above as a guide.
 * What happens if you do a list within a list?
 
 ## Exercise Three
-* Create a questionnaire asking visitors to your website about themselves and their coding skills. This will involve using different types of form elements. 
+* Create a questionnaire asking visitors of your website about themselves and their coding skills. This will involve using different types of form elements.
+
+![exercise3](https://github.com/Code-At-Uni/exercises/raw/master/img/ex3.png "Exercise 3")
+
+
+1. Use five different input types in your form.
 
 #### Extension Exercise
 
-* Use as many types of questions as possible and add images to make it look more interesting.
+1. Try to find two more input types 
+1. Make so when you click the label it focuses on the input.
 
 ## Exercise Four
 * Embed a YouTube video and add a heading and description below it. 
