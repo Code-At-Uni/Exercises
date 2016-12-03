@@ -49,6 +49,10 @@ Feel free to rely on the example above as a guide.
 1. Make so when you click the label it focuses on the input.
 
 ## Exercise Four
+
+![exercise4](https://github.com/Code-At-Uni/exercises/raw/master/img/ex4.png "Exercise 4")
+
+
 * Embed a YouTube video and add a heading and description below it. 
 
 #### Extension Exercise
