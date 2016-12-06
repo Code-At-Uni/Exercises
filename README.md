@@ -59,8 +59,8 @@ Feel free to rely on the example above as a guide.
 
 #### Extension Exercise
 
-* What else can you embed? 
-* Spotify/Google Maps?
+* Try embedding Spotify/Google Maps?
+* If you are interested in collecting data, try embedding Google Forms or Typeform
 
 # CSS
 
