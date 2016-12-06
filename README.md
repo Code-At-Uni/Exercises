@@ -1,7 +1,9 @@
 # Exercises
-Exercises to be used in the Code at Uni course.
 
+Exercises to be used in the Code at Uni course.
 Use pair programming to solve them quicker and in a more creative way!
+
+> A gem cannot be polished without friction, nor a man perfected without trials
 
 # HTML
 
