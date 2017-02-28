@@ -13,41 +13,41 @@ Use pair programming to solve them quicker and in a more creative way!
 
 Feel free to rely on the example above as a guide.
 
-1. Create a HTML page about you two with a title
-1. Create a few headings heading
-1. Add some paragraphs about yourself or a topic you would like
-1. Add at least one image, having them either in the img folder or from the internet
-1. Include a link to your favourite websites. 
+1. Create a HTML page about yourself, like a CV, if you want you can do it for a fictional character or project.
+1. Create a few headings to describe your previous experience and education.
+1. Add some paragraphs under those headings.
+1. Add at least one image, having them either inside your exercise folder or from the internet, your profile picture will look great here!
+1. Include a link to your linkedin/facebook profiles, or any of your favourite websites.
 
 #### Extension Exercise
 
-* Can you make the image a link? 
-* Can you add different heading styles? 
+* Can you make the image a link?
+* Can you add different heading sizes, if so how many of them? 
 * What's the difference between head and body?
 
 ## Exercise Two
 ![exercise2](https://github.com/Code-At-Uni/exercises/raw/master/img/ex2.png "Exercise 2")
 
-1. Add a heading of size 2 for movies that you like and countries you have visited or want to visit.
-1. Create an ordered (numbered) list of your favourite movies.
-1. Create a bullet point list of countries you've visited
+1. Continue with the previous page you created.
+1. Create an ordered (numbered) list of languages you speak.
+1. Create a bullet point list of skills or hobbies you have.
 
 #### Extension Exercise
 
 * What other types of lists can you create? 
-* What happens if you do a list within a list?
+* What happens if you do a list within a list? Try doing this with languages list to differentiate between your written/spoken abilities
 
 ## Exercise Three
-* Create a questionnaire asking visitors of your website about themselves and their coding skills. This will involve using different types of form elements.
+* Create a contact form asking visitors of your website to get in touch with you.
 
 ![exercise3](https://github.com/Code-At-Uni/exercises/raw/master/img/ex3.png "Exercise 3")
 
+1. Collect their email, phone, description, favorite color and at least a date or time, like they wanted to schedule a meeting with you.
 
-1. Use five different input types in your form.
 
 #### Extension Exercise
 
-1. Try to find two more input types 
+1. Feel free to use more input types, like selects and check boxes or radio buttons to collect more information from your users.
 1. Make so when you click the label it focuses on the input.
 
 ## Exercise Four
@@ -55,11 +55,11 @@ Feel free to rely on the example above as a guide.
 ![exercise4](https://github.com/Code-At-Uni/exercises/raw/master/img/ex4.png "Exercise 4")
 
 
-* Embed a YouTube video and add a heading and description below it. 
+* Embed a YouTube video to your page, demonstrating either yourself or your favorite music.
 
 #### Extension Exercise
 
-* Try embedding Spotify/Google Maps?
+* Try embedding Spotify/Google Maps
 * If you are interested in collecting data, try embedding Google Forms or Typeform
 
 # CSS
